@@ -23,7 +23,7 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>:P Hello, world. Today is &amp;$DATE_DDMMYYYY#</process>
+         <process>:P Hello, world.</process>
       </row>
    </scripts>
    <script_attributes>
