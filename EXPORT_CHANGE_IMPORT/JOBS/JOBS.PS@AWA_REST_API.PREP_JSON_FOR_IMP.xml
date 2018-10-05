@@ -70,7 +70,8 @@ $data | Set-Content '&BIN_PATH#\task_reports\restResp_&RUNNR#.json' -Force
    <job_attributes>
       <row>
          <platform>WINDOWS</platform>
-         <agent><![CDATA[<WIN>]]></agent>
+         <agent>WIN01</agent>
+         <login>LOGIN.SAUAN03</login>
          <job_report_path>2</job_report_path>
          <win_work_dir>c:\</win_work_dir>
          <win_typ>0</win_typ>

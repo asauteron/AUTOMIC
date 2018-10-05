@@ -33,7 +33,7 @@
    <job_attributes>
       <row>
          <platform>CIT</platform>
-         <agent><![CDATA[<CIT>]]></agent>
+         <agent>WEBSERVICEREST01</agent>
          <type>WEBSERVICEREST</type>
          <optional_reports>PLOG</optional_reports>
          <job_report_path>2</job_report_path>
@@ -41,51 +41,6 @@
       </row>
    </job_attributes>
    <extended_values>
-      <row>
-         <type>2</type>
-         <name>conn_auth_aws_secret_accesskey</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_aws_sign_version</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_basic_password</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_basic_port</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_basic_host</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_basic_preemptive</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_basic_realm</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_basic_username</name>
-         <value>false</value>
-      </row>
-      <row>
-         <type>2</type>
-         <name>conn_auth_oauth_clientkey</name>
-         <value>false</value>
-      </row>
       <row>
          <type>2</type>
          <name>componentName</name>
@@ -170,6 +125,51 @@
       <row>
          <type>2</type>
          <name>conn_auth_aws_accesskey</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_aws_secret_accesskey</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_aws_sign_version</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_basic_password</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_basic_port</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_basic_host</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_basic_preemptive</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_basic_realm</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_basic_username</name>
+         <value>false</value>
+      </row>
+      <row>
+         <type>2</type>
+         <name>conn_auth_oauth_clientkey</name>
          <value>false</value>
       </row>
       <row>
