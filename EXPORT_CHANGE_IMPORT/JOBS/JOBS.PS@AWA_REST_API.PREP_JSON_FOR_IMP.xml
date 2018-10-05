@@ -12,7 +12,7 @@
          <child_flags>00000000000000000000000000000000</child_flags>
          <ert>1</ert>
          <platform>WINDOWS</platform>
-         <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
+         <last_runtimes>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</last_runtimes>
          <max_parallel_action>1</max_parallel_action>
          <mrt_time>000000</mrt_time>
          <name>JOBS.PS@AWA_REST_API.PREP_JSON_FOR_IMP</name>
@@ -70,7 +70,8 @@ $data | Set-Content '&BIN_PATH#\task_reports\restResp_&RUNNR#.json' -Force
    <job_attributes>
       <row>
          <platform>WINDOWS</platform>
-         <agent><![CDATA[<WIN>]]></agent>
+         <agent>WIN01</agent>
+         <login>LOGIN.SAUAN03</login>
          <job_report_path>2</job_report_path>
          <win_work_dir>c:\</win_work_dir>
          <win_typ>0</win_typ>

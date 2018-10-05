@@ -103,12 +103,12 @@
       <row>
          <type>4</type>
          <name>user</name>
-         <value><![CDATA[<USER>]]></value>
+         <value>SAUAN03/PRE</value>
       </row>
       <row>
          <type>4</type>
          <name>webserviceEndpoint</name>
-         <value>http://&lt;AESERVER&gt;:8088/ae/api/v1</value>
+         <value>http://localhost:8088/ae/api/v1</value>
       </row>
    </extended_values>
 </conn>
