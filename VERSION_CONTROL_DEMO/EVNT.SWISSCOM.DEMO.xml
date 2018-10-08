@@ -29,6 +29,7 @@
    </scripts>
    <event_attributes>
       <row>
+         <activation_at_runtime>1</activation_at_runtime>
          <type>TT</type>
          <repeat_type>R</repeat_type>
          <execution_type>S</execution_type>
