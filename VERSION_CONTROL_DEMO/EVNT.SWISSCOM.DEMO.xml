@@ -11,7 +11,7 @@
          <auto_deactivation>A</auto_deactivation>
          <child_flags>00000000000000000000000000000000</child_flags>
          <ert>1665</ert>
-         <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
+         <last_runtimes>vjoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</last_runtimes>
          <max_parallel_action>1</max_parallel_action>
          <mrt_time>000000</mrt_time>
          <name>EVNT.SWISSCOM.DEMO</name>
@@ -24,13 +24,14 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>:P Today is &amp;$PHYS_DATE#, Current time is &amp;$TIME_HHMMSS#.</process>
+         <process>:P Today is &amp;$SYS_PHYS_DATE#, Current time is &amp;$TIME_HHMMSS#.</process>
       </row>
    </scripts>
    <event_attributes>
       <row>
          <type>TT</type>
          <repeat_type>R</repeat_type>
+         <execution_type>S</execution_type>
          <time_period>0001</time_period>
       </row>
    </event_attributes>
