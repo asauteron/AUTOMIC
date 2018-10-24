@@ -11,6 +11,7 @@
          <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
          <name>DASH.MONITOR</name>
          <type>DASH</type>
+         <description>new title for demo</description>
          <versioning_id>685184705</versioning_id>
       </row>
    </general_attributes>
