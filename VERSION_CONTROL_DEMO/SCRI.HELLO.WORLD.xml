@@ -23,7 +23,7 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>:P Hello, world.</process>
+         <process>:P Hello, world. Today is Tuesday.</process>
       </row>
    </scripts>
    <script_attributes>
