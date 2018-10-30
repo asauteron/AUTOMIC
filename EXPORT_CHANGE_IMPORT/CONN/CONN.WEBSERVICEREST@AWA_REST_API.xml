@@ -13,7 +13,7 @@
          <name>CONN.WEBSERVICEREST@AWA_REST_API</name>
          <type>CONN</type>
          <description>Connection to the local AWA REST API</description>
-         <versioning_id>-319086180</versioning_id>
+         <versioning_id>-319086181</versioning_id>
       </row>
    </general_attributes>
    <connection_attributes>

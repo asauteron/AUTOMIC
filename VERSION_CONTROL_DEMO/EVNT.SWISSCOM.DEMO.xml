@@ -24,15 +24,13 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>:P Today is &amp;$SYS_PHYS_DATE#, Current time is &amp;$TIME_HHMMSS#.</process>
+         <process>:P Today is &amp;$PHYS_DATE#, Current time is &amp;$TIME_HHMMSS#.</process>
       </row>
    </scripts>
    <event_attributes>
       <row>
-         <activation_at_runtime>1</activation_at_runtime>
          <type>TT</type>
          <repeat_type>R</repeat_type>
-         <execution_type>S</execution_type>
          <time_period>0001</time_period>
       </row>
    </event_attributes>

@@ -20,7 +20,7 @@
          <inherit_output_filter>N</inherit_output_filter>
          <queue>CLIENT_QUEUE</queue>
          <description>Export a given object to json</description>
-         <versioning_id>-2047678335</versioning_id>
+         <versioning_id>-2047678336</versioning_id>
       </row>
    </general_attributes>
    <scripts>
